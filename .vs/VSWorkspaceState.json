@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MySQL",
+    "\\Zabbix_Agent_Install",
+    "\\Zabbix_Agent_Install\\roles",
+    "\\Zabbix_Agent_Install\\roles\\agent_install",
+    "\\Zabbix_Agent_Install\\roles\\agent_install\\tasks",
+    "\\Zabbix_Agent_Install\\roles\\agent_install\\vars"
+  ],
+  "SelectedNode": "\\Zabbix_Agent_Install\\roles\\agent_install\\tasks\\install.yml",
+  "PreviewInSolutionExplorer": false
+}

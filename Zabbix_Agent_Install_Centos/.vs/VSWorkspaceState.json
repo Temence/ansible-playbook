@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\roles",
+    "\\roles\\agent_install",
+    "\\roles\\agent_install\\tasks",
+    "\\roles\\agent_install\\vars"
+  ],
+  "SelectedNode": "\\roles\\agent_install\\tasks\\install.yml",
+  "PreviewInSolutionExplorer": false
+}
